@@ -1,0 +1,309 @@
+SEGMENT_ID|CHARGE_ID|SERIES_NUM|CONFIRMATION_NUM|RECORD_NUM|BILL_DATE|ORIGINAL_CHARGE_ID|TAX_ID|TAX_CODE|TAX_DESCRIPTION|CODE_TYPE|SVC_DESCRIPTION|REV_CATEGORY_ID|REV_CATEGORY_DESCRIPTION|CHRG_CHANNEL_ID|CHRG_CHANNEL_CODE|CHARGE_STATUS|STATUS_REASON_ID|STATUS_REASON_DESCRIPTION|RES_CURR_CODE|RES_CURR_CHRG_AMOUNT|RPT_CURR_CODE|RPT_CURR_CHRG_AMOUNT|CHARGE_COMMENT|CREATED_DATE|LAST_MODIFIED_DATE
+RQETJK2991|7076|299 |RQETJK|1|17-FEB-16|6802||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-228|EUR|-52|WEB:AIR|17-FEB-16|17-FEB-16
+RQETJK2991|7077|299 |RQETJK|1|17-FEB-16|6803|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-31|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+RQETJK2991|7078|299 |RQETJK|1|17-FEB-16|6804||||XBAG      |20 KG BAG|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-90|EUR|-21||17-FEB-16|17-FEB-16
+RQETJK2991|7079|299 |RQETJK|1|17-FEB-16|6805||||NSST      |SEAT RESERVATION|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-25|EUR|-6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+RQETJK2992|7080|299 |RQETJK|2|17-FEB-16|6806||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-228|EUR|-52|WEB:AIR|17-FEB-16|17-FEB-16
+RQETJK2992|7081|299 |RQETJK|2|17-FEB-16|6807|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-31|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+RQETJK2992|7082|299 |RQETJK|2|17-FEB-16|6808||||NSST      |SEAT RESERVATION|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-25|EUR|-6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+RQETJK2993|7083|299 |RQETJK|3|17-FEB-16|6809||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-228|EUR|-52|WEB:AIR|17-FEB-16|17-FEB-16
+RQETJK2993|7084|299 |RQETJK|3|17-FEB-16|6810|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-31|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+RQETJK2993|7085|299 |RQETJK|3|17-FEB-16|6811||||NSST      |SEAT RESERVATION|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-25|EUR|-6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+RQETJK2993|7086|299 |RQETJK|3|17-FEB-16|6812||||XBAG      |20 KG BAG|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-90|EUR|-21||17-FEB-16|17-FEB-16
+RQETJK2994|7087|299 |RQETJK|4|17-FEB-16|6813||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-228|EUR|-52|WEB:AIR|17-FEB-16|17-FEB-16
+RQETJK2994|7088|299 |RQETJK|4|17-FEB-16|6814|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-31|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+RQETJK2994|7089|299 |RQETJK|4|17-FEB-16|6815||||NSST      |SEAT RESERVATION|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-25|EUR|-6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+RQETJK2995|7090|299 |RQETJK|5|17-FEB-16|6816||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-202|EUR|-46|WEB:AIR|17-FEB-16|17-FEB-16
+RQETJK2995|7091|299 |RQETJK|5|17-FEB-16|6817|543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-57|EUR|-13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+RQETJK2995|7092|299 |RQETJK|5|17-FEB-16|6818||||XBAG      |20 KG BAG|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-90|EUR|-21||17-FEB-16|17-FEB-16
+RQETJK2995|7093|299 |RQETJK|5|17-FEB-16|6819||||NSST      |SEAT RESERVATION|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-25|EUR|-6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+RQETJK2996|7094|299 |RQETJK|6|17-FEB-16|6820||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-202|EUR|-46|WEB:AIR|17-FEB-16|17-FEB-16
+RQETJK2996|7095|299 |RQETJK|6|17-FEB-16|6821|543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-57|EUR|-13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+RQETJK2996|7096|299 |RQETJK|6|17-FEB-16|6822||||NSST      |SEAT RESERVATION|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-25|EUR|-6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+RQETJK2997|7097|299 |RQETJK|7|17-FEB-16|6823||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-202|EUR|-46|WEB:AIR|17-FEB-16|17-FEB-16
+RQETJK2997|7098|299 |RQETJK|7|17-FEB-16|6824|543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-57|EUR|-13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+RQETJK2997|7099|299 |RQETJK|7|17-FEB-16|6825||||XBAG      |20 KG BAG|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-90|EUR|-21||17-FEB-16|17-FEB-16
+RQETJK2997|7100|299 |RQETJK|7|17-FEB-16|6826||||NSST      |SEAT RESERVATION|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-25|EUR|-6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+RQETJK2998|7101|299 |RQETJK|8|17-FEB-16|6827||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-202|EUR|-46|WEB:AIR|17-FEB-16|17-FEB-16
+RQETJK2998|7102|299 |RQETJK|8|17-FEB-16|6828|543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-57|EUR|-13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+RQETJK2998|7103|299 |RQETJK|8|17-FEB-16|6829||||NSST      |SEAT RESERVATION|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-25|EUR|-6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+RQETJK2991|6802|299 |RQETJK|1|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|228|EUR|52|WEB:AIR|16-FEB-16|17-FEB-16
+RQETJK2991|6803|299 |RQETJK|1|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+RQETJK2991|6804|299 |RQETJK|1|16-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|90|EUR|21||16-FEB-16|17-FEB-16
+RQETJK2991|6805|299 |RQETJK|1|16-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|16-FEB-16|17-FEB-16
+RQETJK2992|6806|299 |RQETJK|2|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|228|EUR|52|WEB:AIR|16-FEB-16|17-FEB-16
+RQETJK2992|6807|299 |RQETJK|2|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+RQETJK2992|6808|299 |RQETJK|2|16-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|16-FEB-16|17-FEB-16
+RQETJK2993|6809|299 |RQETJK|3|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|228|EUR|52|WEB:AIR|16-FEB-16|17-FEB-16
+RQETJK2993|6810|299 |RQETJK|3|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+RQETJK2993|6811|299 |RQETJK|3|16-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|16-FEB-16|17-FEB-16
+RQETJK2993|6812|299 |RQETJK|3|16-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|90|EUR|21||16-FEB-16|17-FEB-16
+RQETJK2994|6813|299 |RQETJK|4|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|228|EUR|52|WEB:AIR|16-FEB-16|17-FEB-16
+RQETJK2994|6814|299 |RQETJK|4|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+RQETJK2994|6815|299 |RQETJK|4|16-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|16-FEB-16|17-FEB-16
+RQETJK2995|6816|299 |RQETJK|5|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|202|EUR|46|WEB:AIR|16-FEB-16|17-FEB-16
+RQETJK2995|6817|299 |RQETJK|5|16-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|16-FEB-16|17-FEB-16
+RQETJK2995|6818|299 |RQETJK|5|16-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|90|EUR|21||16-FEB-16|17-FEB-16
+RQETJK2995|6819|299 |RQETJK|5|16-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|16-FEB-16|17-FEB-16
+RQETJK2996|6820|299 |RQETJK|6|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|202|EUR|46|WEB:AIR|16-FEB-16|17-FEB-16
+RQETJK2996|6821|299 |RQETJK|6|16-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|16-FEB-16|17-FEB-16
+RQETJK2996|6822|299 |RQETJK|6|16-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|16-FEB-16|17-FEB-16
+RQETJK2997|6823|299 |RQETJK|7|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|202|EUR|46|WEB:AIR|16-FEB-16|17-FEB-16
+RQETJK2997|6824|299 |RQETJK|7|16-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|16-FEB-16|17-FEB-16
+RQETJK2997|6825|299 |RQETJK|7|16-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|90|EUR|21||16-FEB-16|17-FEB-16
+RQETJK2997|6826|299 |RQETJK|7|16-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|16-FEB-16|17-FEB-16
+RQETJK2998|6827|299 |RQETJK|8|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|202|EUR|46|WEB:AIR|16-FEB-16|17-FEB-16
+RQETJK2998|6828|299 |RQETJK|8|16-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|16-FEB-16|17-FEB-16
+RQETJK2998|6829|299 |RQETJK|8|16-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|16-FEB-16|17-FEB-16
+IYNU7R2991|6973|299 |IYNU7R|1|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|228|EUR|52|WEB:AIR|17-FEB-16|17-FEB-16
+IYNU7R2991|6974|299 |IYNU7R|1|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+IYNU7R2991|6975|299 |IYNU7R|1|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+IYNU7R2992|6976|299 |IYNU7R|2|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|228|EUR|52|WEB:AIR|17-FEB-16|17-FEB-16
+IYNU7R2992|6977|299 |IYNU7R|2|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+IYNU7R2992|6978|299 |IYNU7R|2|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+IYNU7R2993|6979|299 |IYNU7R|3|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|228|EUR|52|WEB:AIR|17-FEB-16|17-FEB-16
+IYNU7R2993|6980|299 |IYNU7R|3|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+IYNU7R2993|6981|299 |IYNU7R|3|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+IYNU7R2994|7122|299 |IYNU7R|4|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|228|EUR|52|WEB:AIR|17-FEB-16|17-FEB-16
+IYNU7R2994|7123|299 |IYNU7R|4|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+IYNU7R2994|7124|299 |IYNU7R|4|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+IYNU7R2995|7125|299 |IYNU7R|5|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|202|EUR|46|WEB:AIR|17-FEB-16|17-FEB-16
+IYNU7R2995|7126|299 |IYNU7R|5|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+IYNU7R2995|7127|299 |IYNU7R|5|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+IYNU7R2996|7128|299 |IYNU7R|6|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|202|EUR|46|WEB:AIR|17-FEB-16|17-FEB-16
+IYNU7R2996|7129|299 |IYNU7R|6|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+IYNU7R2996|7130|299 |IYNU7R|6|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+IYNU7R2997|7131|299 |IYNU7R|7|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|202|EUR|46|WEB:AIR|17-FEB-16|17-FEB-16
+IYNU7R2997|7132|299 |IYNU7R|7|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+IYNU7R2997|7133|299 |IYNU7R|7|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+IYNU7R2998|7134|299 |IYNU7R|8|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|202|EUR|46|WEB:AIR|17-FEB-16|17-FEB-16
+IYNU7R2998|7135|299 |IYNU7R|8|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+IYNU7R2998|7136|299 |IYNU7R|8|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+JNTKSM2991|7140|299 |JNTKSM|1|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|138|EUR|32|WEB:AIR|17-FEB-16|17-FEB-16
+JNTKSM2991|7141|299 |JNTKSM|1|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+JNTKSM2992|7142|299 |JNTKSM|2|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|138|EUR|32|WEB:AIR|17-FEB-16|17-FEB-16
+JNTKSM2992|7143|299 |JNTKSM|2|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+JNTKSM2993|7144|299 |JNTKSM|3|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|152|EUR|35|WEB:AIR|17-FEB-16|17-FEB-16
+JNTKSM2993|7145|299 |JNTKSM|3|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+JNTKSM2994|7146|299 |JNTKSM|4|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|152|EUR|35|WEB:AIR|17-FEB-16|17-FEB-16
+JNTKSM2994|7147|299 |JNTKSM|4|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+INS9AV2995|7120|299 |INS9AV|5|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+INS9AV2995|7121|299 |INS9AV|5|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+INS9AV2995|7162|299 |INS9AV|5|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+INS9AV2996|7163|299 |INS9AV|6|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|292|EUR|67|WEB:AIR|17-FEB-16|17-FEB-16
+INS9AV2996|7164|299 |INS9AV|6|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+INS9AV2996|7165|299 |INS9AV|6|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+INS9AV2996|7166|299 |INS9AV|6|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+INS9AV2997|7167|299 |INS9AV|7|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|310|EUR|71|WEB:AIR|17-FEB-16|17-FEB-16
+INS9AV2997|7168|299 |INS9AV|7|17-FEB-16||544|BOC |Bourgas Departure Tax - Child|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|39|EUR|9|Bourgas Departure Tax - Child|17-FEB-16|17-FEB-16
+INS9AV2997|7169|299 |INS9AV|7|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+INS9AV2998|7170|299 |INS9AV|8|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|292|EUR|67|WEB:AIR|17-FEB-16|17-FEB-16
+INS9AV2998|7171|299 |INS9AV|8|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+INS9AV2998|7172|299 |INS9AV|8|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+INS9AV2998|7173|299 |INS9AV|8|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+INS9AV2991|7104|299 |INS9AV|1|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|268|EUR|62|WEB:AIR|17-FEB-16|17-FEB-16
+INS9AV2991|7105|299 |INS9AV|1|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+INS9AV2991|7106|299 |INS9AV|1|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+INS9AV2991|7107|299 |INS9AV|1|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+INS9AV2992|7108|299 |INS9AV|2|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|268|EUR|62|WEB:AIR|17-FEB-16|17-FEB-16
+INS9AV2992|7109|299 |INS9AV|2|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+INS9AV2992|7110|299 |INS9AV|2|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+INS9AV2992|7111|299 |INS9AV|2|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+INS9AV2993|7112|299 |INS9AV|3|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|268|EUR|62|WEB:AIR|17-FEB-16|17-FEB-16
+INS9AV2993|7113|299 |INS9AV|3|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+INS9AV2993|7114|299 |INS9AV|3|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+INS9AV2994|7115|299 |INS9AV|4|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|268|EUR|62|WEB:AIR|17-FEB-16|17-FEB-16
+INS9AV2994|7116|299 |INS9AV|4|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+INS9AV2994|7117|299 |INS9AV|4|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+INS9AV2994|7118|299 |INS9AV|4|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+INS9AV2995|7119|299 |INS9AV|5|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|292|EUR|67|WEB:AIR|17-FEB-16|17-FEB-16
+XK18MY2991|7148|299 |XK18MY|1|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|318|EUR|73|WEB:AIR|17-FEB-16|17-FEB-16
+XK18MY2991|7149|299 |XK18MY|1|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+XK18MY2991|7150|299 |XK18MY|1|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+XK18MY2992|7151|299 |XK18MY|2|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|318|EUR|73|WEB:AIR|17-FEB-16|17-FEB-16
+XK18MY2992|7152|299 |XK18MY|2|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+XK18MY2992|7153|299 |XK18MY|2|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+XK18MY2992|7154|299 |XK18MY|2|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+XK18MY2993|7155|299 |XK18MY|3|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|318|EUR|73|WEB:AIR|17-FEB-16|17-FEB-16
+XK18MY2993|7156|299 |XK18MY|3|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+XK18MY2993|7157|299 |XK18MY|3|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+XK18MY2993|7158|299 |XK18MY|3|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+XK18MY2994|7159|299 |XK18MY|4|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|292|EUR|67|WEB:AIR|17-FEB-16|17-FEB-16
+XK18MY2994|7160|299 |XK18MY|4|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+XK18MY2994|7161|299 |XK18MY|4|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+XK18MY2995|7182|299 |XK18MY|5|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|292|EUR|67|WEB:AIR|17-FEB-16|17-FEB-16
+XK18MY2995|7183|299 |XK18MY|5|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+XK18MY2995|7184|299 |XK18MY|5|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+XK18MY2995|7185|299 |XK18MY|5|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+XK18MY2996|7186|299 |XK18MY|6|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|292|EUR|67|WEB:AIR|17-FEB-16|17-FEB-16
+XK18MY2996|7187|299 |XK18MY|6|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+XK18MY2996|7188|299 |XK18MY|6|17-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|25|EUR|6|SEAT RESERVATION|17-FEB-16|17-FEB-16
+XK18MY2996|7189|299 |XK18MY|6|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+85IWLU2991|7190|299 |85IWLU|1|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|323|EUR|74|WEB:AIR|17-FEB-16|17-FEB-16
+85IWLU2991|7191|299 |85IWLU|1|17-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|17-FEB-16|17-FEB-16
+85IWLU2992|7192|299 |85IWLU|2|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|323|EUR|74|WEB:AIR|17-FEB-16|17-FEB-16
+85IWLU2992|7193|299 |85IWLU|2|17-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|17-FEB-16|17-FEB-16
+85IWLU2993|7194|299 |85IWLU|3|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|323|EUR|74|WEB:AIR|17-FEB-16|17-FEB-16
+85IWLU2993|7195|299 |85IWLU|3|17-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|17-FEB-16|17-FEB-16
+85IWLU2994|7196|299 |85IWLU|4|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|323|EUR|74|WEB:AIR|17-FEB-16|17-FEB-16
+85IWLU2994|7197|299 |85IWLU|4|17-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|17-FEB-16|17-FEB-16
+GZZYOY2991|5895|299 |GZZYOY|1|12-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|268|EUR|62|WEB:AIR|12-FEB-16|17-FEB-16
+GZZYOY2991|5896|299 |GZZYOY|1|12-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|12-FEB-16|17-FEB-16
+GZZYOY2992|5897|299 |GZZYOY|2|12-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|268|EUR|62|WEB:AIR|12-FEB-16|17-FEB-16
+GZZYOY2992|5898|299 |GZZYOY|2|12-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|12-FEB-16|17-FEB-16
+GZZYOY2993|5899|299 |GZZYOY|3|12-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|268|EUR|62|WEB:AIR|12-FEB-16|17-FEB-16
+GZZYOY2993|5900|299 |GZZYOY|3|12-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|12-FEB-16|17-FEB-16
+GZZYOY2994|5901|299 |GZZYOY|4|12-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|268|EUR|62|WEB:AIR|12-FEB-16|17-FEB-16
+GZZYOY2994|6002|299 |GZZYOY|4|12-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|12-FEB-16|17-FEB-16
+GZZYOY2994|6003|299 |GZZYOY|4|12-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|90|EUR|21||12-FEB-16|17-FEB-16
+GZZYOY2995|6004|299 |GZZYOY|5|12-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|247|EUR|57|WEB:AIR|12-FEB-16|17-FEB-16
+GZZYOY2995|6005|299 |GZZYOY|5|12-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|12-FEB-16|17-FEB-16
+GZZYOY2996|6006|299 |GZZYOY|6|12-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|247|EUR|57|WEB:AIR|12-FEB-16|17-FEB-16
+GZZYOY2996|6007|299 |GZZYOY|6|12-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|12-FEB-16|17-FEB-16
+GZZYOY2997|6008|299 |GZZYOY|7|12-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|247|EUR|57|WEB:AIR|12-FEB-16|17-FEB-16
+GZZYOY2997|6009|299 |GZZYOY|7|12-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|12-FEB-16|17-FEB-16
+GZZYOY2998|6010|299 |GZZYOY|8|12-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|247|EUR|57|WEB:AIR|12-FEB-16|17-FEB-16
+GZZYOY2998|6011|299 |GZZYOY|8|12-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|12-FEB-16|17-FEB-16
+GZZYOY2998|6012|299 |GZZYOY|8|12-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|90|EUR|21||12-FEB-16|17-FEB-16
+GZZYOY2992|7218|299 |GZZYOY|2|17-FEB-16|5897||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|1|Cancel due to Modify|PLN|-268|EUR|-62| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2992|7219|299 |GZZYOY|2|17-FEB-16|5898|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|1|Cancel due to Modify|PLN|-31|EUR|-7| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2996|7220|299 |GZZYOY|6|17-FEB-16|6006||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|1|Cancel due to Modify|PLN|-247|EUR|-57| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2996|7221|299 |GZZYOY|6|17-FEB-16|6007|545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|1|Cancel due to Modify|PLN|-52|EUR|-12| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2999|7222|299 |GZZYOY|9|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|1|2|Added due to Modify|PLN|299|EUR|69||17-FEB-16|17-FEB-16
+GZZYOY29910|7223|299 |GZZYOY|10|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|1|2|Added due to Modify|PLN|299|EUR|69||17-FEB-16|17-FEB-16
+GZZYOY2994|7224|299 |GZZYOY|4|17-FEB-16|5901||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|1|Cancel due to Modify|PLN|-268|EUR|-62| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2994|7225|299 |GZZYOY|4|17-FEB-16|6002|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|1|Cancel due to Modify|PLN|-31|EUR|-7| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2994|7226|299 |GZZYOY|4|17-FEB-16|6003||||XBAG      |20 KG BAG|7|Special Service Requests|1|STANDARD|0|1|Cancel due to Modify|PLN|-90|EUR|-21| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2998|7227|299 |GZZYOY|8|17-FEB-16|6010||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|1|Cancel due to Modify|PLN|-247|EUR|-57| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2998|7228|299 |GZZYOY|8|17-FEB-16|6011|545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|1|Cancel due to Modify|PLN|-52|EUR|-12| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2998|7229|299 |GZZYOY|8|17-FEB-16|6012||||XBAG      |20 KG BAG|7|Special Service Requests|1|STANDARD|0|1|Cancel due to Modify|PLN|-90|EUR|-21| No Refund|17-FEB-16|17-FEB-16
+GZZYOY29911|7230|299 |GZZYOY|11|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|1|2|Added due to Modify|PLN|299|EUR|69||17-FEB-16|17-FEB-16
+GZZYOY29911|7231|299 |GZZYOY|11|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|1|STANDARD|1|2|Added due to Modify|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+GZZYOY29912|7232|299 |GZZYOY|12|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|1|2|Added due to Modify|PLN|299|EUR|69||17-FEB-16|17-FEB-16
+GZZYOY29912|7233|299 |GZZYOY|12|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|1|STANDARD|1|2|Added due to Modify|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+GZZYOY2991|7234|299 |GZZYOY|1|17-FEB-16|5895||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|1|Cancel due to Modify|PLN|-268|EUR|-62| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2991|7235|299 |GZZYOY|1|17-FEB-16|5896|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|1|Cancel due to Modify|PLN|-31|EUR|-7| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2995|7236|299 |GZZYOY|5|17-FEB-16|6004||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|1|Cancel due to Modify|PLN|-247|EUR|-57| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2995|7237|299 |GZZYOY|5|17-FEB-16|6005|545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|1|Cancel due to Modify|PLN|-52|EUR|-12| No Refund|17-FEB-16|17-FEB-16
+GZZYOY29913|7238|299 |GZZYOY|13|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|1|2|Added due to Modify|PLN|299|EUR|69||17-FEB-16|17-FEB-16
+GZZYOY29914|7239|299 |GZZYOY|14|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|1|2|Added due to Modify|PLN|299|EUR|69||17-FEB-16|17-FEB-16
+GZZYOY2993|7240|299 |GZZYOY|3|17-FEB-16|5899||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|1|Cancel due to Modify|PLN|-268|EUR|-62| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2993|7241|299 |GZZYOY|3|17-FEB-16|5900|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|1|Cancel due to Modify|PLN|-31|EUR|-7| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2997|7242|299 |GZZYOY|7|17-FEB-16|6008||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|1|Cancel due to Modify|PLN|-247|EUR|-57| No Refund|17-FEB-16|17-FEB-16
+GZZYOY2997|7243|299 |GZZYOY|7|17-FEB-16|6009|545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|1|Cancel due to Modify|PLN|-52|EUR|-12| No Refund|17-FEB-16|17-FEB-16
+GZZYOY29915|7244|299 |GZZYOY|15|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|1|2|Added due to Modify|PLN|299|EUR|69||17-FEB-16|17-FEB-16
+GZZYOY29916|7245|299 |GZZYOY|16|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|1|2|Added due to Modify|PLN|299|EUR|69||17-FEB-16|17-FEB-16
+1AN71R2991|6700|299 |1AN71R|1|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|178|EUR|41|WEB:AIR|16-FEB-16|17-FEB-16
+1AN71R2991|6701|299 |1AN71R|1|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+1AN71R2992|6842|299 |1AN71R|2|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|178|EUR|41|WEB:AIR|16-FEB-16|17-FEB-16
+1AN71R2992|6843|299 |1AN71R|2|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+1AN71R2993|6844|299 |1AN71R|3|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|178|EUR|41|WEB:AIR|16-FEB-16|17-FEB-16
+1AN71R2993|6845|299 |1AN71R|3|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+1AN71R2994|6846|299 |1AN71R|4|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|178|EUR|41|WEB:AIR|16-FEB-16|17-FEB-16
+1AN71R2994|6847|299 |1AN71R|4|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+1AN71R2994|6848|299 |1AN71R|4|16-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|PLN|90|EUR|21||16-FEB-16|17-FEB-16
+1AN71R2995|6849|299 |1AN71R|5|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|148|EUR|34|WEB:AIR|16-FEB-16|17-FEB-16
+1AN71R2995|6850|299 |1AN71R|5|16-FEB-16||546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|61|EUR|14|Varna Departure Tax|16-FEB-16|17-FEB-16
+1AN71R2996|6851|299 |1AN71R|6|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|148|EUR|34|WEB:AIR|16-FEB-16|17-FEB-16
+1AN71R2996|6852|299 |1AN71R|6|16-FEB-16||546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|61|EUR|14|Varna Departure Tax|16-FEB-16|17-FEB-16
+1AN71R2997|6853|299 |1AN71R|7|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|148|EUR|34|WEB:AIR|16-FEB-16|17-FEB-16
+1AN71R2997|6854|299 |1AN71R|7|16-FEB-16||546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|61|EUR|14|Varna Departure Tax|16-FEB-16|17-FEB-16
+1AN71R2998|6855|299 |1AN71R|8|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|148|EUR|34|WEB:AIR|16-FEB-16|17-FEB-16
+1AN71R2998|6856|299 |1AN71R|8|16-FEB-16||546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|61|EUR|14|Varna Departure Tax|16-FEB-16|17-FEB-16
+1AN71R2991|7246|299 |1AN71R|1|17-FEB-16|6700||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-178|EUR|-41|WEB:AIR|17-FEB-16|17-FEB-16
+1AN71R2991|7247|299 |1AN71R|1|17-FEB-16|6701|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-31|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+1AN71R2992|7248|299 |1AN71R|2|17-FEB-16|6842||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-178|EUR|-41|WEB:AIR|17-FEB-16|17-FEB-16
+1AN71R2992|7249|299 |1AN71R|2|17-FEB-16|6843|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-31|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+1AN71R2993|7250|299 |1AN71R|3|17-FEB-16|6844||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-178|EUR|-41|WEB:AIR|17-FEB-16|17-FEB-16
+1AN71R2993|7251|299 |1AN71R|3|17-FEB-16|6845|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-31|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+1AN71R2994|7252|299 |1AN71R|4|17-FEB-16|6846||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-178|EUR|-41|WEB:AIR|17-FEB-16|17-FEB-16
+1AN71R2994|7253|299 |1AN71R|4|17-FEB-16|6847|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-31|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+1AN71R2994|7254|299 |1AN71R|4|17-FEB-16|6848||||XBAG      |20 KG BAG|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|PLN|-90|EUR|-21||17-FEB-16|17-FEB-16
+1AN71R2995|7255|299 |1AN71R|5|17-FEB-16|6849||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-148|EUR|-34|WEB:AIR|17-FEB-16|17-FEB-16
+1AN71R2995|7256|299 |1AN71R|5|17-FEB-16|6850|546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-61|EUR|-14|Varna Departure Tax|17-FEB-16|17-FEB-16
+1AN71R2996|7257|299 |1AN71R|6|17-FEB-16|6851||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-148|EUR|-34|WEB:AIR|17-FEB-16|17-FEB-16
+1AN71R2996|7258|299 |1AN71R|6|17-FEB-16|6852|546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-61|EUR|-14|Varna Departure Tax|17-FEB-16|17-FEB-16
+1AN71R2997|7259|299 |1AN71R|7|17-FEB-16|6853||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-148|EUR|-34|WEB:AIR|17-FEB-16|17-FEB-16
+1AN71R2997|7260|299 |1AN71R|7|17-FEB-16|6854|546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-61|EUR|-14|Varna Departure Tax|17-FEB-16|17-FEB-16
+1AN71R2998|7261|299 |1AN71R|8|17-FEB-16|6855||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-148|EUR|-34|WEB:AIR|17-FEB-16|17-FEB-16
+1AN71R2998|7262|299 |1AN71R|8|17-FEB-16|6856|546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-61|EUR|-14|Varna Departure Tax|17-FEB-16|17-FEB-16
+BSMT642991|6857|299 |BSMT64|1|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|217|EUR|50|WEB:AIR|16-FEB-16|17-FEB-16
+BSMT642991|6858|299 |BSMT64|1|16-FEB-16||541|WAW |WAW Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|62|EUR|14|WAW Departure Tax|16-FEB-16|17-FEB-16
+BSMT642992|6859|299 |BSMT64|2|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|217|EUR|50|WEB:AIR|16-FEB-16|17-FEB-16
+BSMT642992|6860|299 |BSMT64|2|16-FEB-16||541|WAW |WAW Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|62|EUR|14|WAW Departure Tax|16-FEB-16|17-FEB-16
+BSMT642993|6861|299 |BSMT64|3|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|217|EUR|50|WEB:AIR|16-FEB-16|17-FEB-16
+BSMT642993|6862|299 |BSMT64|3|16-FEB-16||541|WAW |WAW Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|62|EUR|14|WAW Departure Tax|16-FEB-16|17-FEB-16
+BSMT642994|6863|299 |BSMT64|4|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|217|EUR|50|WEB:AIR|16-FEB-16|17-FEB-16
+BSMT642994|6864|299 |BSMT64|4|16-FEB-16||541|WAW |WAW Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|62|EUR|14|WAW Departure Tax|16-FEB-16|17-FEB-16
+BSMT642995|6865|299 |BSMT64|5|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|227|EUR|52|WEB:AIR|16-FEB-16|17-FEB-16
+BSMT642995|6866|299 |BSMT64|5|16-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|16-FEB-16|17-FEB-16
+BSMT642996|6867|299 |BSMT64|6|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|227|EUR|52|WEB:AIR|16-FEB-16|17-FEB-16
+BSMT642996|6868|299 |BSMT64|6|16-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|16-FEB-16|17-FEB-16
+BSMT642997|6869|299 |BSMT64|7|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|227|EUR|52|WEB:AIR|16-FEB-16|17-FEB-16
+BSMT642997|6870|299 |BSMT64|7|16-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|16-FEB-16|17-FEB-16
+BSMT642998|6871|299 |BSMT64|8|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|227|EUR|52|WEB:AIR|16-FEB-16|17-FEB-16
+BSMT642998|6872|299 |BSMT64|8|16-FEB-16||545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|52|EUR|12|Greece Departure Tax|16-FEB-16|17-FEB-16
+BSMT642991|7263|299 |BSMT64|1|17-FEB-16|6857||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-217|EUR|-50|WEB:AIR|17-FEB-16|17-FEB-16
+BSMT642991|7264|299 |BSMT64|1|17-FEB-16|6858|541|WAW |WAW Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-62|EUR|-14|WAW Departure Tax|17-FEB-16|17-FEB-16
+BSMT642992|7265|299 |BSMT64|2|17-FEB-16|6859||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-217|EUR|-50|WEB:AIR|17-FEB-16|17-FEB-16
+BSMT642992|7266|299 |BSMT64|2|17-FEB-16|6860|541|WAW |WAW Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-62|EUR|-14|WAW Departure Tax|17-FEB-16|17-FEB-16
+BSMT642993|7267|299 |BSMT64|3|17-FEB-16|6861||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-217|EUR|-50|WEB:AIR|17-FEB-16|17-FEB-16
+BSMT642993|7268|299 |BSMT64|3|17-FEB-16|6862|541|WAW |WAW Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-62|EUR|-14|WAW Departure Tax|17-FEB-16|17-FEB-16
+BSMT642994|7269|299 |BSMT64|4|17-FEB-16|6863||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-217|EUR|-50|WEB:AIR|17-FEB-16|17-FEB-16
+BSMT642994|7270|299 |BSMT64|4|17-FEB-16|6864|541|WAW |WAW Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-62|EUR|-14|WAW Departure Tax|17-FEB-16|17-FEB-16
+BSMT642995|7271|299 |BSMT64|5|17-FEB-16|6865||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-227|EUR|-52|WEB:AIR|17-FEB-16|17-FEB-16
+BSMT642995|7272|299 |BSMT64|5|17-FEB-16|6866|545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-52|EUR|-12|Greece Departure Tax|17-FEB-16|17-FEB-16
+BSMT642996|7273|299 |BSMT64|6|17-FEB-16|6867||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-227|EUR|-52|WEB:AIR|17-FEB-16|17-FEB-16
+BSMT642996|7274|299 |BSMT64|6|17-FEB-16|6868|545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-52|EUR|-12|Greece Departure Tax|17-FEB-16|17-FEB-16
+BSMT642997|7275|299 |BSMT64|7|17-FEB-16|6869||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-227|EUR|-52|WEB:AIR|17-FEB-16|17-FEB-16
+BSMT642997|7276|299 |BSMT64|7|17-FEB-16|6870|545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-52|EUR|-12|Greece Departure Tax|17-FEB-16|17-FEB-16
+BSMT642998|7277|299 |BSMT64|8|17-FEB-16|6871||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-227|EUR|-52|WEB:AIR|17-FEB-16|17-FEB-16
+BSMT642998|7278|299 |BSMT64|8|17-FEB-16|6872|545|GR  |Greece Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-52|EUR|-12|Greece Departure Tax|17-FEB-16|17-FEB-16
+LS75OK2991|6873|299 |LS75OK|1|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|178|EUR|41|WEB:AIR|16-FEB-16|17-FEB-16
+LS75OK2991|6874|299 |LS75OK|1|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+LS75OK2992|6875|299 |LS75OK|2|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|PLN|198|EUR|46|WEB:AIR|16-FEB-16|17-FEB-16
+LS75OK2992|6876|299 |LS75OK|2|16-FEB-16||546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|PLN|61|EUR|14|Varna Departure Tax|16-FEB-16|17-FEB-16
+LS75OK2991|7279|299 |LS75OK|1|17-FEB-16|6873||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-178|EUR|-41|WEB:AIR|17-FEB-16|17-FEB-16
+LS75OK2991|7280|299 |LS75OK|1|17-FEB-16|6874|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-31|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+LS75OK2992|7281|299 |LS75OK|2|17-FEB-16|6875||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|PLN|-198|EUR|-46|WEB:AIR|17-FEB-16|17-FEB-16
+LS75OK2992|7282|299 |LS75OK|2|17-FEB-16|6876|546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|PLN|-61|EUR|-14|Varna Departure Tax|17-FEB-16|17-FEB-16
+C6NPIW2993|6915|299 |C6NPIW|3|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|EUR|72|EUR|72|WEB:AIR|16-FEB-16|17-FEB-16
+C6NPIW2993|6916|299 |C6NPIW|3|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|EUR|7|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+C6NPIW2994|6917|299 |C6NPIW|4|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|EUR|65|EUR|65|WEB:AIR|16-FEB-16|17-FEB-16
+C6NPIW2994|6918|299 |C6NPIW|4|16-FEB-16||546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|EUR|14|EUR|14|Varna Departure Tax|16-FEB-16|17-FEB-16
+C6NPIW2995|6919|299 |C6NPIW|5|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|EUR|65|EUR|65|WEB:AIR|16-FEB-16|17-FEB-16
+C6NPIW2995|6920|299 |C6NPIW|5|16-FEB-16||546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|EUR|14|EUR|14|Varna Departure Tax|16-FEB-16|17-FEB-16
+C6NPIW2996|6921|299 |C6NPIW|6|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|EUR|65|EUR|65|WEB:AIR|16-FEB-16|17-FEB-16
+C6NPIW2996|6922|299 |C6NPIW|6|16-FEB-16||546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|EUR|14|EUR|14|Varna Departure Tax|16-FEB-16|17-FEB-16
+C6NPIW2991|7283|299 |C6NPIW|1|17-FEB-16|6911||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|EUR|-72|EUR|-72|WEB:AIR|17-FEB-16|17-FEB-16
+C6NPIW2991|7284|299 |C6NPIW|1|17-FEB-16|6912|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|EUR|-7|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+C6NPIW2992|7285|299 |C6NPIW|2|17-FEB-16|6913||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|EUR|-72|EUR|-72|WEB:AIR|17-FEB-16|17-FEB-16
+C6NPIW2992|7286|299 |C6NPIW|2|17-FEB-16|6914|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|EUR|-7|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+C6NPIW2993|7287|299 |C6NPIW|3|17-FEB-16|6915||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|EUR|-72|EUR|-72|WEB:AIR|17-FEB-16|17-FEB-16
+C6NPIW2993|7288|299 |C6NPIW|3|17-FEB-16|6916|542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|EUR|-7|EUR|-7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+C6NPIW2994|7289|299 |C6NPIW|4|17-FEB-16|6917||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|EUR|-65|EUR|-65|WEB:AIR|17-FEB-16|17-FEB-16
+C6NPIW2994|7290|299 |C6NPIW|4|17-FEB-16|6918|546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|EUR|-14|EUR|-14|Varna Departure Tax|17-FEB-16|17-FEB-16
+C6NPIW2995|7291|299 |C6NPIW|5|17-FEB-16|6919||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|EUR|-65|EUR|-65|WEB:AIR|17-FEB-16|17-FEB-16
+C6NPIW2995|7292|299 |C6NPIW|5|17-FEB-16|6920|546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|EUR|-14|EUR|-14|Varna Departure Tax|17-FEB-16|17-FEB-16
+C6NPIW2996|7293|299 |C6NPIW|6|17-FEB-16|6921||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|EUR|-65|EUR|-65|WEB:AIR|17-FEB-16|17-FEB-16
+C6NPIW2996|7294|299 |C6NPIW|6|17-FEB-16|6922|546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|EUR|-14|EUR|-14|Varna Departure Tax|17-FEB-16|17-FEB-16
+C6NPIW2991|6911|299 |C6NPIW|1|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|EUR|72|EUR|72|WEB:AIR|16-FEB-16|17-FEB-16
+C6NPIW2991|6912|299 |C6NPIW|1|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|EUR|7|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+C6NPIW2992|6913|299 |C6NPIW|2|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|EUR|72|EUR|72|WEB:AIR|16-FEB-16|17-FEB-16
+C6NPIW2992|6914|299 |C6NPIW|2|16-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|EUR|7|EUR|7|Katowice Departure Tax|16-FEB-16|17-FEB-16
+69M4LW2991|6935|299 |69M4LW|1|16-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|0|0|Original Booking|EUR|15|EUR|15|WEB:AIR|16-FEB-16|17-FEB-16
+69M4LW2991|6936|299 |69M4LW|1|16-FEB-16||546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|0|0|Original Booking|EUR|14|EUR|14|Varna Departure Tax|16-FEB-16|17-FEB-16
+69M4LW2991|6937|299 |69M4LW|1|16-FEB-16|||||NSST      |SEAT RESERVATION|7|Special Service Requests|8|EXT_WEB|0|0|Original Booking|EUR|5|EUR|5|SEAT RESERVATION|16-FEB-16|17-FEB-16
+69M4LW2991|7295|299 |69M4LW|1|17-FEB-16|6935||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|1|STANDARD|0|10|Auto Cancel|EUR|-15|EUR|-15|WEB:AIR|17-FEB-16|17-FEB-16
+69M4LW2991|7296|299 |69M4LW|1|17-FEB-16|6936|546|VAR |Varna Departure Tax|TAX       |Tax|1|This revenue category is undefined|1|STANDARD|0|10|Auto Cancel|EUR|-14|EUR|-14|Varna Departure Tax|17-FEB-16|17-FEB-16
+69M4LW2991|7297|299 |69M4LW|1|17-FEB-16|6937||||NSST      |SEAT RESERVATION|7|Special Service Requests|1|STANDARD|0|10|Auto Cancel|EUR|-5|EUR|-5|SEAT RESERVATION|17-FEB-16|17-FEB-16
+TUUGZT2991|7298|299 |TUUGZT|1|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|228|EUR|52|WEB:AIR|17-FEB-16|17-FEB-16
+TUUGZT2991|7299|299 |TUUGZT|1|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+TUUGZT2992|7300|299 |TUUGZT|2|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|228|EUR|52|WEB:AIR|17-FEB-16|17-FEB-16
+TUUGZT2992|7301|299 |TUUGZT|2|17-FEB-16||542|KTW |Katowice Departure Tax|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|31|EUR|7|Katowice Departure Tax|17-FEB-16|17-FEB-16
+TUUGZT2992|7322|299 |TUUGZT|2|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16
+TUUGZT2993|7323|299 |TUUGZT|3|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|202|EUR|46|WEB:AIR|17-FEB-16|17-FEB-16
+TUUGZT2993|7324|299 |TUUGZT|3|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+TUUGZT2994|7325|299 |TUUGZT|4|17-FEB-16|||||AIR       |AIR FARE|3|Booking/Transaction/Call center fees|8|EXT_WEB|1|0|Original Booking|PLN|202|EUR|46|WEB:AIR|17-FEB-16|17-FEB-16
+TUUGZT2994|7326|299 |TUUGZT|4|17-FEB-16||543|BOJ |Bourgas Departure Tax - Adult|TAX       |Tax|1|This revenue category is undefined|8|EXT_WEB|1|0|Original Booking|PLN|57|EUR|13|Bourgas Departure Tax - Adult|17-FEB-16|17-FEB-16
+TUUGZT2994|7327|299 |TUUGZT|4|17-FEB-16|||||XBAG      |20 KG BAG|7|Special Service Requests|8|EXT_WEB|1|0|Original Booking|PLN|90|EUR|21||17-FEB-16|17-FEB-16

@@ -1,0 +1,36 @@
+﻿
+FRÅGOR
+* Kan man förvänta sig att det kommer en fil / dag som ska processas?
+* OutboundSegmentBooked/InboundSegmentBooked ändras till SegmentBooked i Apisci?
+
+
+NOTES
+* OK //kontrollera att ACTIVE finns i Processing::Process() -> else -> if. Kodblocket 'Booking is modified (first CANCELED then ACTIVE)'
+
+
+Ändra
+* Ändra pathToFolder i Service.cs construktor, så att det läses från fil eller .config 
+
+* Spara json-data ifall Send() till apiski returnerar allt annat än 200
+
+* Processjobb måste ske datumvis. 
+
+Flöde för processen 
+-- OK --Kolla sista processade datumet i xml-filen
+-- ok --Processen ska ske i datumföljd, inga datum får hoppas över
+-- ok --Om ett filSet inte är komplett ska nytt försök göras (Polly, finns i nuget)
+-- Om Apiski svarar med något annan än 200, ska datan sparas (json) och nytt försök görs vid senare tillfälle
+
+
+
+2016-04-18
+* Man ska kunna konfigurera från vilket datum nästa processing ska börja från
+
+* När Task körs asynk fungerar det inte att spara i databasen. implementera nån form av kö?
+* Flytta Send från processd? Skapa ett Event när en fil är processed som Send lyssnar på?
+
+
+
+
+2016-04-25
+*Ändra sökvägen till ftp till AppConfig
